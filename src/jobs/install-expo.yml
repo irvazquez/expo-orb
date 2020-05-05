@@ -1,0 +1,7 @@
+desciption: >
+  Call command to install Expo.io
+
+executor: default
+
+steps:
+  -expo-io
