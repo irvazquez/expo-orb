@@ -4,4 +4,4 @@ desciption: >
 executor: default
 
 steps:
-  -expo-io
+  - expo-io
