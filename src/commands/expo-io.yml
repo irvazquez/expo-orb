@@ -3,5 +3,5 @@ description: >
 
 steps:
   - run:
-    name: Install Expo cli
-    command: npm install expo-cli --global
+      name: Install Expo cli
+      command: npm install expo-cli --global
